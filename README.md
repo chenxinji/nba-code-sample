@@ -5,7 +5,7 @@ $ means run in command prompt
 You should run the following setup as an admin or root.
 You may ignore the optional dependency errors.
 
-## Preferred System: Ubuntu 14.04
+## Systems: Ubuntu 14.04, Windows, Mac OS.
 
 ## Install Git(if not installed)
 •	Recent version (e.g. v2.x)
@@ -37,3 +37,28 @@ npm:2.11.3
 
 ## Run server with live reload
 •	$ grunt serve
+
+
+## Functions
+This project is used to help us to get familiar Angularjs and its features like Directive, Controller, NgRoute, Data Binding and so on. Also we can get familiar with Angular-UI-Bootstrap with the features like caresoul, accordian and modal.
+Here are some functions in different pages.
+## Home page:
+1. There is some NBA imagery.
+2. Add videos as background.
+3. In the last part of the accordian, you can enter your favourite player and press the button, the information of your favourite player will popup.
+
+## Players Page
+1. Add css features make the form user friendly.
+2. Add searching to the form to search for the players.
+3. Add paginations(50 per page).
+
+## Teams Page:
+1. Show team information of different teams.
+2. Click on the team you will see all the players of that team.
+3. Add sorting function on all columns.
+4. Add transition to the background.
+
+
+
+
+
